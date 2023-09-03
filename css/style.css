@@ -329,3 +329,19 @@ body{
     margin-top: 100px;
     text-align: center;
 }
+
+.cardsgeneral{
+
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.sim{
+
+    height: 100%;
+}
+
+.sizaboton{
+
+    padding-top: 5%;
+}
