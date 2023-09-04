@@ -227,7 +227,7 @@ body{
 
 #page-footer a{
 
-    color: var(--aviso);
+    color: var(--textoparrafo);
 }
 
 #page-footer a:hover{
@@ -344,4 +344,9 @@ body{
 .sizaboton{
 
     padding-top: 5%;
+}
+
+.uscard{
+    padding-left: 10%;
+    padding-right: 10%;
 }

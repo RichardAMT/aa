@@ -5,12 +5,12 @@
 </button>
 
 pendientes: 
-depilacionlaser.html
-sueroterapia.html
-micropigmentacion.html
-limpiezasfaciales.html
-preguntasf.html
-terminos.html
+depilacionlaser.html X
+sueroterapia.html X
+micropigmentacion.html X
+limpiezasfaciales.html X
+preguntasf.html X
+terminos.html X
 
 <nav class="navbar fixed-top navbar-expand-lg bg-body-tertiary" id="menu">
 
